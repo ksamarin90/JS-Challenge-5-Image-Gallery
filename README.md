@@ -3,5 +3,5 @@ JS challenge by Wes Bos.
 
 Interactive gallery using Javascript.
 
-http://dangerous-feet.surge.sh/
+https://ksamarin90.github.io/JS-Challenge-5-Image-Gallery/
 
